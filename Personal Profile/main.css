@@ -1,0 +1,44 @@
+.biography {
+    border: 1px green solid;
+    color: whitesmoke;
+    font-family: calibri;
+    font-size: 24px;
+}
+
+.video {
+    background-color: transparent whitesmoke;
+    padding: 10px;
+    margin: 10px;
+}
+
+.biography:hover {
+    background-color: #606060;
+}
+
+.links {
+    font-size: 30px;
+    color: #5bff74;
+}
+
+.main {
+    background-image: url("DSC_0159 (1).jpg");
+    opacity: 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+a:hover {
+    color: whitesmoke;
+}
+
+a {
+    color: #5bff74;
+}
